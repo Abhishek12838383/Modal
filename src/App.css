@@ -1,0 +1,14 @@
+.App h1{
+  text-align: center;
+}
+.input{
+  margin-top:5vh;
+ text-align: center;
+}
+.input input{
+  height:40px;
+  width:15vw;
+  border-radius:10px;
+  padding-left:15px;
+  margin-right:10px;
+}
